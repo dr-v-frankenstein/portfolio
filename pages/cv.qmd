@@ -4,140 +4,94 @@ toc: false
 ---
 
 ::: {.cv-header}
-# Your Name
+# Victor Frankenstein
 
-<div class="cv-subtitle">Your role / job title</div>
+<div class="cv-subtitle">Computational Neurobiologist · UK Dementia Research Institute</div>
 
 <div class="cv-links">
 {{< include ../_partials/links.html >}}
 </div>
-
-
-<!--
-PROMPT:
-Optional. If you have a PDF CV, save it as assets/cv.pdf and uncomment the link below.
-<a class="cv-pdf" href="../assets/cv.pdf">PDF</a>
--->
 :::
 
 ---
 
 ## Summary
 
-<!--
-PROMPT:
-2–4 sentences is plenty.
-Think “what do I do?” rather than “who am I?”.
-Focus on problems, methods, and impact.
--->
+Computational neuroscientist studying the molecular mechanisms of
+neurodegeneration, with a focus on how misfolded proteins propagate
+through neural circuits.
 
-Write a short professional summary here. Keep it concrete and readable.
-Mention your main domain, the kinds of methods you use, and the impact you aim for.
+My research combines experimental neuroscience with computational
+analysis of large biological datasets, including spatial transcriptomics
+and imaging data. I develop reproducible analysis pipelines to understand
+how small molecular failures eventually lead to large-scale neuronal loss.
+
+While my earlier scientific ambitions may have involved reanimating
+lifeless tissue, my current work focuses on understanding how neurons
+can be kept alive for as long as possible.
 
 ---
 
 ## Employment
 
-<!--
-PROMPT:
-For each role:
-- Organisation — role title (dates)
-- 2–4 bullets focusing on outcomes and responsibility
-Action + result works well.
--->
+**UK Dementia Research Institute — Research Associate** *(2021–Present)*  
+- Lead computational analysis of spatial transcriptomics datasets investigating tau pathology in Alzheimer's disease.  
+- Developed reproducible pipelines for analysing neurodegenerative disease data across multiple research projects.  
+- Collaborate with experimental neuroscientists to integrate molecular data with brain imaging and pathology.
 
-**Organisation — Role title** *(YYYY–Present)*  
-- What you delivered, built, or enabled.
-- How this helped the project, team, or organisation.
-- Tools or methods are fine, but include *why it mattered*.
-
-**Organisation — Role title** *(YYYY–YYYY)*  
-- Impact-focused bullet.
-- Impact-focused bullet.
+**Transylvanian Institute of Experimental Biology — Postdoctoral Researcher** *(2018–2021)*  
+- Studied molecular mechanisms underlying neuronal degeneration and protein aggregation.  
+- Designed experimental and computational workflows to analyse large biological datasets.  
+- Contributed to interdisciplinary collaborations combining molecular biology and computational modelling.
 
 ---
 
 ## Selected projects & achievements
 
-<!--
-PROMPT:
-Pick a small number (3–6).
-These can overlap with the Projects page — that’s fine.
-Keep each one to a single, strong sentence.
--->
+- **Mapping tau propagation across neural circuits:** Developed computational workflows for spatial transcriptomics analysis revealing vulnerable neuronal populations in Alzheimer's disease.  
+  *(Evidence: analysis pipeline, public dataset, preprint manuscript)*
 
-- **Project or achievement title:** What you did and why it matters.  
-  *(Evidence: [repo](#), [report](#), [paper](#))*
+- **Standardising measurements of protein aggregation:** Built an open-source image analysis pipeline for quantifying tau pathology across multiple research labs.
 
-- **Project or achievement title:** One-line impact statement.
-
-- **Community / leadership / training contribution:** One-line impact statement.
+- **Reproducible neuroscience workshops:** Designed and delivered training sessions helping experimental researchers adopt reproducible computational practices.
 
 ---
 
 ## Skills
 
-<!--
-PROMPT:
-Keep this skimmable.
-Categories help more than long lists.
--->
-
-**Programming & tools:** R, Python, Bash, Git, …  
-**Data & analysis:** Genomics, transcriptomics, statistics, visualisation, …  
-**Workflows & reproducibility:** HPC, containers, CI, documentation, FAIR, …  
-**Communication & teaching:** Workshops, mentoring, stakeholder communication, …  
-**Languages:** English (…), Portuguese (…), …
+**Programming & tools:** R, Python, Bash, Git, Quarto  
+**Data & analysis:** Spatial transcriptomics, imaging analysis, neurodegenerative disease datasets  
+**Workflows & reproducibility:** Reproducible pipelines, version control, open science practices  
+**Communication & teaching:** Workshops, interdisciplinary collaboration, scientific communication  
+**Languages:** English (fluent), German (working knowledge)
 
 ---
 
 ## Education
 
-<!--
-PROMPT:
-Degree — institution (dates).
-One short line on focus or thesis is optional.
--->
+**PhD in Molecular Neuroscience — University of Ingolstadt** *(2014–2018)*  
+Focus: Molecular mechanisms of neuronal degeneration and protein aggregation.
 
-**Degree — Institution** *(YYYY–YYYY)*  
-Focus or thesis area (optional).
-
-**Degree — Institution** *(YYYY–YYYY)*
+**MSc in Experimental Biology — University of Ingolstadt** *(2012–2014)*
 
 ---
 
 ## Awards & fellowships
 
-<!--
-PROMPT:
-List what you have — small awards count too.
--->
-
-- Award / fellowship — organisation or funder (YYYY)  
-- Travel grant — organisation (YYYY)
+- Early Career Neuroscience Fellowship — European Society for Neurobiology (2020)  
+- Young Investigator Award — International Conference on Neurodegeneration (2019)
 
 ---
 
 ## Selected publications
 
-<!--
-PROMPT:
-Keep this short (3–6).
-Link to the Outputs page for a full list if you have one.
--->
-
-- Author, A. (Year). *Title.* Journal. Link  
-- Author, A. (Year). *Title.* Journal. Link
+- Frankenstein, V. (2025). *Mapping tau-vulnerable cell populations using spatial transcriptomics.* bioRxiv.  
+- Frankenstein, V., Igor, I. (2024). *Network models of pathological protein propagation.* Journal of Computational Neuroscience.
 
 ---
 
 ## Outreach & teaching
 
-<!--
-PROMPT:
-Include anything that shows reach beyond your immediate role.
--->
-
-- Teaching or training contribution (audience, topic)
-- Invited talk, poster, or seminar
-- Community service, committee work, or peer review
+- **Workshop:** Reproducible Computational Neuroscience (UK DRI Annual Meeting)  
+- **Public lecture:** Understanding neurodegeneration and brain donation research  
+- **Guest seminar:** Ethics and ambition in experimental science

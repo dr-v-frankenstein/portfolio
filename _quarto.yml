@@ -5,9 +5,7 @@ project:
   execute-dir: project
 
 website:
-  # CHANGE THIS: replace "Your" and "Name" with your own first and last name.
-  # The <strong> tag makes the first name bold and coloured (see styles.css .site-name).
-  title: "<span class='site-name'><strong>Your</strong> Name</span>"
+  title: "<span class='site-name'><strong>Victor</strong> Frankenstein</span>"
   navbar:
     left:
       - text: Home
@@ -23,10 +21,9 @@ website:
 
     right:
       - icon: github
-        href: https://github.com/YOURUSERNAME   # CHANGE THIS
+        href: https://github.com/dr-v-frankenstein
       - icon: envelope
-        href: mailto:YOUR.EMAIL@domain          # CHANGE THIS
-
+        href: mailto:v.frankenstein@ukdri.ac.uk
 
 format:
   html:

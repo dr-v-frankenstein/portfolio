@@ -8,38 +8,47 @@ This format focuses on **contributions and impact**, rather than job titles or
 publication counts. Wherever possible, link to evidence that supports your claims.
 :::
 
-<!--
-This page follows a narrative CV format commonly requested by research funders.
-You don’t need to complete every section in one go — start with what you have.
--->
-
-This **Résumé for Research** uses a narrative CV structure, commonly requested by
+This **Résumé for Research** uses a narrative CV structure commonly requested by
 research funders and institutions.
 
-Contributions are grouped into **four modules**. For each entry, aim to make clear:
-
-- **What you contributed**
-- **Why it matters**
-- **Where the evidence can be found**
+Rather than listing positions or publications, it focuses on **what was done,
+why it matters, and where the evidence can be found**.
 
 ---
 
 ## 1. Contributions to the generation of knowledge
 
-<!--
-PROMPT:
-List 2–4 key research contributions.
-These could include methods, datasets, analyses, or conceptual advances.
--->
-
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
 
-- **Contribution:** What you did or produced.
-- **Significance:** Why this advances understanding in your field.
-- **Evidence:** Link to a paper, preprint, repository, report, or dataset.
+### Mapping cellular vulnerability in neurodegeneration
+
+- **Contribution:** Led the computational analysis of spatial transcriptomics
+  data to identify neuronal populations most vulnerable to early tau aggregation
+  in Alzheimer's disease.
+
+- **Significance:** Revealed previously unrecognised cellular patterns of
+  vulnerability that may explain how pathology spreads across neural circuits.
+
+- **Evidence:** Analysis repository, preprint manuscript, and publicly available dataset.
+
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+
+### Modelling pathological protein propagation
+
+- **Contribution:** Developed computational models describing how misfolded
+  proteins propagate across neural networks.
+
+- **Significance:** Provided a framework for understanding why neurodegenerative
+  diseases follow specific anatomical progression patterns.
+
+- **Evidence:** Open-source analysis pipeline and collaborative modelling project.
+
 :::
 :::
 :::
@@ -48,20 +57,36 @@ These could include methods, datasets, analyses, or conceptual advances.
 
 ## 2. Contributions to the development of others
 
-<!--
-PROMPT:
-Think broadly. This is not just formal supervision.
-Include teaching, mentoring, training, documentation, or informal support.
--->
-
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
 
-- **Contribution:** e.g. supervision, mentoring, teaching, onboarding resources.
-- **Who benefited:** students, colleagues, teams, or communities.
-- **Evidence:** materials, projects, acknowledgements, feedback.
+### Training researchers in reproducible computational workflows
+
+- **Contribution:** Designed and delivered workshops introducing experimental
+  neuroscientists to version control, reproducible pipelines, and open science practices.
+
+- **Who benefited:** Early-career researchers and wet-lab scientists working
+  with complex biological datasets.
+
+- **Evidence:** Workshop materials, GitHub repositories, and participant feedback.
+
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+
+### Mentoring interdisciplinary research projects
+
+- **Contribution:** Mentored students and collaborators combining experimental
+  neuroscience with computational analysis.
+
+- **Who benefited:** Graduate students and postdoctoral researchers entering
+  interdisciplinary data-driven neuroscience.
+
+- **Evidence:** Student project outputs and collaborative publications.
+
 :::
 :::
 :::
@@ -70,19 +95,35 @@ Include teaching, mentoring, training, documentation, or informal support.
 
 ## 3. Contributions to the wider research community
 
-<!--
-PROMPT:
-Examples include open science, shared resources, leadership, or service.
--->
-
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
 
-- **Contribution:** What you shared, led, or enabled.
-- **Reach:** Who uses it, or how widely it has been adopted.
-- **Evidence:** repositories, usage, citations, invitations.
+### Open-source tools for analysing neurodegenerative pathology
+
+- **Contribution:** Developed and shared reproducible analysis pipelines for
+  spatial transcriptomics and histology image analysis.
+
+- **Reach:** Tools adopted by multiple collaborating labs studying
+  neurodegenerative disease.
+
+- **Evidence:** Public GitHub repositories and shared datasets.
+
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+
+### Promoting transparent and reproducible science
+
+- **Contribution:** Advocated for open data and reproducible computational
+  methods within collaborative neuroscience projects.
+
+- **Reach:** Contributed workflows and documentation used across research groups.
+
+- **Evidence:** Public repositories, training resources, and collaborative analyses.
+
 :::
 :::
 :::
@@ -91,20 +132,36 @@ Examples include open science, shared resources, leadership, or service.
 
 ## 4. Contributions to broader society
 
-<!--
-PROMPT:
-This can include translational impact, public engagement, policy influence,
-capacity building, or work that benefits specific communities.
--->
-
 ::: {.grid}
 ::: {.g-col-12}
 ::: {.card}
-### Contribution title or short claim
 
-- **Contribution:** Activity, output, or engagement.
-- **Impact:** Why this matters beyond academia.
-- **Evidence:** talks, collaborations, media, outputs.
+### Public engagement on dementia research
+
+- **Contribution:** Participated in outreach events explaining how brain
+  donation and neuroscience research contribute to understanding dementia.
+
+- **Impact:** Helped build public understanding of how research translates
+  into future therapies and improved care.
+
+- **Evidence:** Public lectures, outreach events, and educational materials.
+
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+
+### Communicating responsible scientific innovation
+
+- **Contribution:** Engaged in discussions on the ethical responsibilities of
+  scientists working with powerful biological technologies.
+
+- **Impact:** Encouraged thoughtful reflection on the balance between scientific
+  ambition and responsible research practice.
+
+- **Evidence:** Public seminars and interdisciplinary workshops.
+
 :::
 :::
 :::

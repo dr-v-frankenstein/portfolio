@@ -6,54 +6,115 @@ toc: false
 <!--
 This page is for short, evidence-backed project case studies.
 Think “what I worked on and what came out of it”, not full lab notebooks 🙂
-
-To add more projects: copy one of the card blocks below and paste it inside the .grid div.
-Each card is a ::: {.g-col-12 .g-col-md-6} ::: {.card} ... ::: ::: block.
 -->
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-::: {.card}
-## Project title
-
-<!-- PROMPT:
-1–2 sentences. What was the problem or question you were addressing?
--->
-**Problem:** What needed solving, understanding, or building?
-
-<!-- PROMPT:
-Be explicit about *your* contribution.
--->
-**My role:** What you were responsible for (analysis, methods, coordination, etc.).
-
-<!-- PROMPT:
-High level is fine.
-Focus on approach, tools, or concepts — not implementation detail.
--->
-**Approach:** How you went about it (methods, data, tools).
-
-<!-- PROMPT:
-Evidence matters more than prose.
-Link to anything public or shareable.
--->
-**Evidence:**
-- Repo: …
-- Report / preprint: …
-- Paper / poster: …
-:::
-:::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
-## Project title
 
-**Problem:** …  
-**My role:** …  
-**Approach:** …  
+## Mapping tau propagation across neural circuits
+
+**Problem:**  
+Alzheimer's pathology spreads across the brain in remarkably
+predictable patterns, yet the cellular mechanisms guiding
+this propagation remain poorly understood.
+
+**My role:**  
+Led the computational analysis of spatial transcriptomics
+data from post-mortem brain samples.
+
+**Approach:**  
+Integrated spatial gene expression data with single-cell
+RNA sequencing reference datasets to identify neuronal
+populations most susceptible to early tau aggregation.
 
 **Evidence:**
-- Repo: …
-- Output: …
+
+- Repo: https://github.com/dr-v-frankenstein/tau-spatial-analysis  
+- Preprint: https://biorxiv.org  
+- Dataset: https://zenodo.org  
+
 :::
 :::
+
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+
+## Quantifying pathological protein aggregation
+
+**Problem:**  
+Different laboratories measure tau aggregation in brain tissue
+using inconsistent methods, making studies difficult to compare.
+
+**My role:**  
+Developed a reproducible analysis pipeline for measuring
+tau pathology from histology images.
+
+**Approach:**  
+Machine-learning based image segmentation combined with
+high-resolution histology imaging and automated quantification.
+
+**Evidence:**
+
+- Repo: https://github.com/dr-v-frankenstein/tau-scoring-pipeline  
+- Validation dataset: https://zenodo.org  
+- Poster: UK DRI Annual Meeting  
+
+:::
+:::
+
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+
+## Reconstructing cellular failure pathways in neurodegeneration
+
+**Problem:**  
+Why do some neurons succumb early in neurodegenerative disease
+while neighbouring cells survive much longer?
+
+**My role:**  
+Designed the computational framework used to analyse
+single-cell RNA sequencing datasets across disease stages.
+
+**Approach:**  
+Network modelling and gene-regulatory inference to reconstruct
+molecular cascades leading to neuronal dysfunction.
+
+**Evidence:**
+
+- Repo: https://github.com/dr-v-frankenstein/neurodegeneration-networks  
+- Preprint: https://biorxiv.org  
+
+:::
+:::
+
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+
+## Standardising measurements of neurodegenerative pathology
+
+**Problem:**  
+Measurements of protein aggregation and neuronal loss vary
+widely between laboratories, making cross-study comparisons difficult.
+
+**My role:**  
+Coordinated a collaboration between several research groups
+to benchmark different analysis approaches.
+
+**Approach:**  
+Developed shared analysis pipelines and standard datasets
+to enable reproducible comparisons across labs.
+
+**Evidence:**
+
+- Repo: https://github.com/dr-v-frankenstein/neuro-benchmark  
+- Workshop: UK DRI Computational Neuroscience meeting  
+
+:::
+:::
+
 :::

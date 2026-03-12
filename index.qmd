@@ -2,43 +2,40 @@
 title: "Home"
 toc: false
 ---
-<!--
-This homepage is intentionally simple.
-You can always add more later — start with clarity.
--->
 
 ::: {.columns .home-hero}
 ::: {.column width="65%"}
-# Your Name
 
-<div class="home-subtitle">Your role / job title</div>
+# Victor Frankenstein
 
-<!-- PROMPT:
-2–4 sentences is plenty.
-Say who you are, what you work on, and why it matters.
-No need to tell your whole life story 🙂
--->
-Write a short professional bio here. Focus on your research or technical domain,
-the kinds of methods or tools you use, and the impact you care about.
+<div class="home-subtitle">Computational Neurobiologist · UK Dementia Research Institute</div>
 
-<!-- PROMPT:
-Optional one-liner.
-This could be an affiliation, institute, research group, or focus area.
--->
-*Affiliation · Institute · Research focus (optional)*
+I investigate what happens when biology stops behaving.
+
+My research focuses on the molecular failures that drive
+neurodegeneration — particularly how proteins misfold,
+aggregate, and propagate across neural circuits.
+
+Using a combination of experimental neuroscience,
+spatial transcriptomics, and computational analysis,
+I study how small molecular errors can eventually lead
+to large-scale loss of brain function.
+
+Earlier in my career I was perhaps a little too enthusiastic
+about experimenting with the boundaries of life and death.
+These days my work is much more focused on understanding
+how to preserve neurons rather than reanimating them.
+
+*Frankenstein Group · UK Dementia Research Institute*
 
 {{< include _partials/links.html >}}
-
 
 :::
 
 ::: {.column width="35%"}
-<!--
-PROMPT:
-Use a photo, illustration, or abstract banner image.
-This template uses an avatar/banner by default to keep things low-pressure.
--->
-![](assets/images/profile.png){.profile-pic fig-alt="Profile image or banner"}
+
+![](assets/images/profile.png){.profile-pic fig-alt="Victor Frankenstein portrait"}
+
 :::
 :::
 
@@ -46,64 +43,78 @@ This template uses an avatar/banner by default to keep things low-pressure.
 
 ## Focus areas
 
-<!--
-PROMPT:
-Pick 2–4 areas you’d be happy to talk about if someone asked,
-“What do you actually work on?”
--->
-
 ::: {.grid}
+
 ::: {.g-col-12 .g-col-md-4}
-### Your research area 1
-<!-- PROMPT: 1–2 lines describing this area -->
-What you study, build, or analyse — and why it matters.
+
+### Protein misbehaviour
+
+Understanding how proteins such as tau adopt pathological
+structures and spread through neural circuits in
+neurodegenerative disease.
+
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Your research area 2
-<!-- PROMPT: 1–2 lines describing this area -->
-Methods, tools, or approaches you are known for.
+
+### Spatial brain mapping
+
+Using spatial transcriptomics to identify vulnerable
+cell populations and map disease progression
+through the brain.
+
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Your research area 3
-<!-- PROMPT: 1–2 lines describing this area -->
-Impact, translation, or community work you care about.
+
+### Reproducible science
+
+Building computational workflows that make complex
+biological analyses transparent, shareable,
+and reproducible.
+
 :::
+
 :::
 
 ---
 
 ## Start here
 
-<!--
-PROMPT:
-These links help visitors (and future you!) navigate the site.
-Think of this as a “signpost” section.
--->
-
 ::: {.grid}
+
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
+
 [**Projects →**](pages/projects.qmd)
 
-Short case studies showing what you did, how you did it, and why it matters.
+Case studies describing research questions,
+methods used, and where the evidence lives.
+
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
+
 [**Résumé for Research →**](pages/resume.qmd)
 
-A narrative CV using four modules, aligned with current funder expectations.
+A narrative CV describing contributions to
+knowledge, people, the research community,
+and broader society.
+
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
+
 [**Outputs →**](pages/outputs.qmd)
 
-Publications, talks, software, datasets, and other things you’ve put into the world.
+Publications, talks, datasets, software,
+and other things released into the world.
+
 :::
 :::
+
 :::
